@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1717748607 source:c:\users\hk\desktop\programmation\language c\projet c\projet language c\depot.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717748578 source:c:\users\hk\desktop\programmation\language c\projet c\projet language c\retrait.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717748914 source:c:\users\hk\desktop\programmation\language c\projet c\projet language c\compte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717444109 source:c:\users\hk\desktop\programmation\language c\projet c\projet language c\main.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"depot.h"
+	"retrait.h"
+	"compte.h"
+
+1717310952 c:\users\hk\desktop\programmation\language c\projet c\projet language c\depot.h
+
+1717310941 c:\users\hk\desktop\programmation\language c\projet c\projet language c\retrait.h
+
+1717311033 c:\users\hk\desktop\programmation\language c\projet c\projet language c\compte.h
+
+1718394237 source:c:\users\hk\desktop\programmation\language c\projet language c\projet language c\compte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1718394794 source:c:\users\hk\desktop\programmation\language c\projet language c\projet language c\main.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"depot.h"
+	"retrait.h"
+	"compte.h"
+	"InfoCompte.h"
+	"solde.h"
+
+1717310954 c:\users\hk\desktop\programmation\language c\projet language c\projet language c\depot.h
+
+1717310942 c:\users\hk\desktop\programmation\language c\projet language c\projet language c\retrait.h
+
+1717311034 c:\users\hk\desktop\programmation\language c\projet language c\projet language c\compte.h
+
+1718394438 source:c:\users\hk\desktop\programmation\language c\projet language c\projet language c\retrait.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718395124 source:c:\users\hk\desktop\programmation\language c\projet language c\projet language c\depot.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718278638 source:c:\users\hk\desktop\programmation\language c\projet language c\projet language c\untitled1.c
+
+1718362414 c:\users\hk\desktop\programmation\language c\projet language c\projet language c\infocompte.h
+
+1718394244 source:c:\users\hk\desktop\programmation\language c\projet language c\projet language c\infocompte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718395011 source:c:\users\hk\desktop\programmation\language c\projet language c\projet language c\solde.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718389826 c:\users\hk\desktop\programmation\language c\projet language c\projet language c\solde.h
+
+1718278640 source:c:\users\hk\desktop\projet language c\projet language c\untitled1.c
+
+1718452639 source:c:\users\hk\desktop\projet language c\projet language c\compte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1718451114 source:c:\users\hk\desktop\projet language c\projet language c\depot.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718453193 source:c:\users\hk\desktop\projet language c\projet language c\infocompte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718451137 source:c:\users\hk\desktop\projet language c\projet language c\main.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"depot.h"
+	"retrait.h"
+	"compte.h"
+	"InfoCompte.h"
+	"solde.h"
+
+1717310954 c:\users\hk\desktop\projet language c\projet language c\depot.h
+
+1717310942 c:\users\hk\desktop\projet language c\projet language c\retrait.h
+
+1717311034 c:\users\hk\desktop\projet language c\projet language c\compte.h
+
+1718362416 c:\users\hk\desktop\projet language c\projet language c\infocompte.h
+
+1718389828 c:\users\hk\desktop\projet language c\projet language c\solde.h
+
+1718452078 source:c:\users\hk\desktop\projet language c\projet language c\retrait.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718451143 source:c:\users\hk\desktop\projet language c\projet language c\solde.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
